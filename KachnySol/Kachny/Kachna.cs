@@ -7,9 +7,9 @@
 public abstract class Kachna
 {
 
-    public IKvakani SchopnostKvakat { get; set; }
+    public IKvakani? SchopnostKvakat { get; set; }
     
-    public ILetani SchopnostLetat    { get; set; }
+    public ILetani? SchopnostLetat    { get; set; }
         
 
     public void Let()
