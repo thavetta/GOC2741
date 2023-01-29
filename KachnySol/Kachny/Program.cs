@@ -8,8 +8,6 @@ class Program
 		OtestujKachnu(new DomaciKachna());
 		OtestujKachnu(new DrevenaKachna());
 		OtestujKachnu(new GumenaKachna());
-
-		Console.ReadKey();
 	}
 
 	private static void OtestujKachnu(Kachna kachna)

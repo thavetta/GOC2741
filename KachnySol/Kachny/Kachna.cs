@@ -1,5 +1,9 @@
 ﻿namespace Kachny;
-
+/// <summary>
+/// Příklad na DP Strategy
+/// Abstraktní třída Kachna umožňuje změnu schopnosti létání a kvákaní 
+/// přiřazením požadovaného typu do property SchopnostLetat a SchopnostKvakat
+/// </summary>
 public abstract class Kachna
 {
 
