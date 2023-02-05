@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KavarnaKasa", "KavarnaKasa\KavarnaKasa.csproj", "{0B97D809-7D81-4E8E-91DA-A3863B1B0AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Napoje", "Napoje\Napoje.csproj", "{1A207F65-5D31-489A-85C9-FD914661A774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B97D809-7D81-4E8E-91DA-A3863B1B0AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B97D809-7D81-4E8E-91DA-A3863B1B0AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B97D809-7D81-4E8E-91DA-A3863B1B0AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B97D809-7D81-4E8E-91DA-A3863B1B0AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A207F65-5D31-489A-85C9-FD914661A774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A207F65-5D31-489A-85C9-FD914661A774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A207F65-5D31-489A-85C9-FD914661A774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A207F65-5D31-489A-85C9-FD914661A774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {337C576E-D273-4BD9-9E2B-9DD03496E9C0}
+	EndGlobalSection
+EndGlobal
